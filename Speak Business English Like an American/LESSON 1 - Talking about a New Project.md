@@ -9,7 +9,7 @@
 ### Listen to the Audio
 
 <audio controls>
-  <source src="https://github.com/jason-chenh/Englis-Journey/blob/main/Audio/LESSON1.mp3" type="audio/mpeg">
+  <source src="https://www.essentialenglish.review/apps-data/speak-business-english-like-an-american/data/LESSON-1-Talking-about-a-New-Project/reading/31689.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 
