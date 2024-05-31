@@ -10,6 +10,7 @@
 
 <audio controls>
   <source src="https://github.com/jason-chenh/English-Journey/raw/main/Audio/LESSON1.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
 </audio>
 
 
