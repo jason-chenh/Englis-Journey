@@ -7,7 +7,7 @@
 ### Listen to the Audio
 
 <audio controls>
-  <source src="https://github.com/jason-chenh/Englis-Journey.git/Speak%20Business%20English%20Like%20an%20American/LESSON1.mp3" type="audio/mpeg">
+  <source src="https://github.com/jason-chenh/Englis-Journey.git/Audio/LESSON1.mp3" type="audio/mpeg">
 </audio>
 
 
