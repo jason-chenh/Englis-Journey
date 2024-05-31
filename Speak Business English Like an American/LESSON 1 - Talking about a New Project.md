@@ -5,8 +5,10 @@
 ### WaterSonic Corporation: New Electric Toothbrush Project
 
 ### Listen to the Pronunciation
+
+
 <audio controls>
-  <source src="https://www.example.com/audio-file.mp3" type="audio/mpeg">
+  <source src="https://www.essentialenglish.review/apps-data/speak-business-english-like-an-american/data/LESSON-1-Talking-about-a-New-Project/reading/31689.mp3" type="audio/mpeg">
 </audio>
 
 
