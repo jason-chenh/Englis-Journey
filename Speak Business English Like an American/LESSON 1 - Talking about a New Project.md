@@ -6,9 +6,12 @@
 
 ### Listen to the Audio
 
+### Listen to the Audio
+
 <audio controls>
-  <source src="https://github.com/jason-chenh/Englis-Journey/Audio/LESSON1.mp3" type="audio/mpeg">
+  <source src="https://github.com/jason-chenh/English-Journey/raw/main/Audio/LESSON1.mp3" type="audio/mpeg">
 </audio>
+
 
 
 
